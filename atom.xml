@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KLNH599.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-08-02T21:24:48.001Z</updated>
+    <title>巢小俊</title>
+    <updated>2021-08-02T21:36:58.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KLNH599.github.io"/>
     <link rel="self" href="https://KLNH599.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://KLNH599.github.io/images/avatar.png</logo>
     <icon>https://KLNH599.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 巢小俊</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://KLNH599.github.io/post/hello-gridea/</id>
